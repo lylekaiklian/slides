@@ -1,0 +1,233 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background: #1D1D1D;
+}
+
+.container, .root-wizard {
+	height: inherit !important;
+}
+
+.page-header {
+	padding: 0;
+	margin: 0;
+}
+
+.progress {
+	height: 5px;
+    border-radius: 0;
+    margin-bottom: 0;
+    position: relative;
+    top: -70px;
+}
+
+.progress-bar {
+	background: #218686;
+}
+
+.tab-content {
+	height: 600px;
+	background: ;
+}
+
+.pager {
+	position: absolute;
+	bottom: 60px;
+	right: 23px;
+
+}
+
+.pager li.disabled a {
+	background: none;
+	border: none;
+}
+
+.pager li a {
+	background: none;
+    border: none;
+}
+
+.pager li a:hover {
+	background: none;
+    border: none;
+}
+
+.pager li a:active {
+	background: none;
+    border: none;
+}
+
+.pager li a:focus {
+	background: none;
+    border: none;
+}
+
+.pager li a span {
+	cursor: pointer;
+	font-size: 20pt;
+	color: #218686;
+	-webkit-transition: all .5s ease;
+  -moz-transition:    all .5s ease;
+  -o-transition:      all .5s ease;
+     transition:      all .5s ease;  
+}
+
+.pager li a:hover span {
+	cursor: pointer;
+	font-size: 20pt;
+	color: #0d5858;
+}
+
+  
+.logo {
+	max-width: 50%;
+	 margin: 0 auto;
+}
+
+.slide-1 {
+	padding-top: 40px;
+}
+
+.avenir {
+	font-family:'Avenir Next LT Pro Bold';
+	font-weight:normal;
+	font-size:42px
+}
+
+.avenir-light {
+	font-family:'Avenir Next LT Pro Ultra Light Condensed';
+	font-weight:normal;
+	font-size:42px
+}
+
+.company-name {
+	text-transform: uppercase;
+	letter-spacing: 10px;
+}
+
+.slide-title-container {
+	margin-bottom: 50px;
+}
+
+.slide-main-title {
+	text-transform: uppercase;
+	letter-spacing: 10px;
+}
+
+.white {
+	color: #ffffff;
+}
+
+.blue {
+	color: #218686;
+}
+
+.about-bg {
+	height: 600px;
+	background: url(../img/about.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.slide-title {
+	line-height: 562px;
+    text-transform: uppercase;
+    font-weight: lighter;
+    letter-spacing: 25px;
+    font-size: 20pt;
+}
+
+.content {
+	font-size: 20pt;
+    line-height: 57px;
+    background: white;
+    padding: 10px;
+}
+
+#tab3 {
+	padding-top: 40px;
+}
+
+.ross {
+	    width: 200px;
+    height: 200px;
+    background: url(../img/ross.jpg);
+    background-size: 121%;
+    border-radius: 100%;
+    background-position-x: -28px;
+	margin: 0 auto;
+}
+
+.rikki {
+	    width: 200px;
+    height: 200px;
+    background: url(../img/rikki.jpg);
+    background-size: 121%;
+    border-radius: 100%;
+    background-position-x: -28px;
+	margin: 0 auto;
+}
+
+.jesse {
+	    width: 200px;
+    height: 200px;
+    background: url(../img/jesse.jpg);
+    background-size: 121%;
+    border-radius: 100%;
+    background-position-x: -28px;
+	margin: 0 auto;
+}
+
+.lyle {
+	    width: 200px;
+    height: 200px;
+    background: url(../img/lyle.jpg);
+    background-size: 121%;
+    border-radius: 100%;
+    background-position-x: -28px;
+	margin: 0 auto;
+}
+
+.caps {
+	text-transform: uppercase;
+}
+
+.white-bg {
+	background: #ffffff;
+	padding: 6px;
+}
+
+.core-name {
+	font-size: 12pt;
+	letter-spacing: 2px;
+	margin-bottom: 10px;
+}
+
+.tab-pane { 
+	padding-top: 40px;
+}
+
+.main-prod-icon {
+	max-width: 75px;
+	margin: 0 auto;
+}
+
+.small {
+	font-size: 15pt !important;
+}
+
+.main-prod-container {
+	margin-bottom: 70px;
+}
+
+.core-prod-logo {
+	max-width: 175px;
+	margin: 0 auto;
+}
+
+.award-logo {
+	max-width: 218px;
+	margin: 0 auto;
+}
