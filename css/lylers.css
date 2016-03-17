@@ -1,0 +1,63 @@
+.levi {
+	font-family:'levibrushregular';
+	font-weight:normal;
+}
+
+.gold {
+	color: #dca511;
+}
+
+.progress-bar {
+	background: #dca511;
+}
+
+.title {
+	font-size: 160pt !important;
+}
+
+.sub-title {
+	font-size: 90pt !important;
+}
+
+.sub {
+	font-size: 50pt !important;
+}
+
+.pager li a span {
+	cursor: pointer;
+	font-size: 20pt;
+	color: #dca511;
+	-webkit-transition: all .5s ease;
+  -moz-transition:    all .5s ease;
+  -o-transition:      all .5s ease;
+     transition:      all .5s ease;  
+}
+
+.pager li a:hover span {
+	cursor: pointer;
+	font-size: 20pt;
+	color: #dca511;
+}
+
+.slide-1 {
+	padding-top: 100px;
+}
+
+.slide-2 {
+	padding-top: 100px;
+}
+
+.slide-3 {
+	padding-top: 100px !important;
+}
+
+.slide-4 {
+	padding-top: 100px !important;
+}
+
+.slide-5 {
+	padding-top: 100px !important;
+}
+
+
+
